@@ -61,5 +61,5 @@ void loop()
         }
     }
 
-    receiveText = "";
+    receiveText = ""; // 매번 텍스트를 초기화하여 입력받은 텍스트가 쌓이지 않도록 함
 }
