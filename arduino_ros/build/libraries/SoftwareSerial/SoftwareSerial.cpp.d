@@ -1,5 +1,5 @@
-/home/polygon/arduino/arduino_ros/build/sketch/arduino_ros.ino.cpp.o: \
- /home/polygon/arduino/arduino_ros/build/sketch/arduino_ros.ino.cpp \
+/home/polygon/arduino/arduino_ros/build/libraries/SoftwareSerial/SoftwareSerial.cpp.o: \
+ /home/polygon/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries/SoftwareSerial/src/SoftwareSerial.cpp \
  /home/polygon/.arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/Arduino.h \
  /home/polygon/.arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/binary.h \
  /home/polygon/.arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/WCharacter.h \
