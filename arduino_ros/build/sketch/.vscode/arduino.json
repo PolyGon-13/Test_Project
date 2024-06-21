@@ -1,7 +1,0 @@
-#line 1 "/home/polygon/arduino/arduino_ros/.vscode/arduino.json"
-{
-    "sketch": "arduino_ros.ino",
-    "output": "build",
-    "board": "arduino:avr:uno",
-    "port": "/dev/ttyUSB0"
-}
